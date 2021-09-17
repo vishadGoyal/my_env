@@ -1,3 +1,4 @@
+# bashrc
 ## Bash prompt
 Shows username, working directory followed by current branch if applicable in line 1.
 Shows current time in AM/PM format in line 2
@@ -21,4 +22,9 @@ alias gp="git push"
 alias ga="git add"
 alias gc="git commit"
 alias gcm="git commit -m"
+```
+
+## miscellaneous aliases
+```sh
+alias ..="cd .."
 ```
