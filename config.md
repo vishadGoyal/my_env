@@ -26,6 +26,7 @@ alias gcm="git commit -m"
 
 ## miscellaneous aliases
 ```sh
+# miscellaneous aliases
 alias ..="cd .."
 ```
 # inputrc
